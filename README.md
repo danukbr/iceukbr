@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iceukbr
 - 🌱 I’m currently learning Js
-- 📫 How to reach me, my discord : icerlk
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: idk 
 
