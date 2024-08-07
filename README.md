@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iceukbr
+- 👋 Hi, I’m @danukbr
 - 🌱 I’m currently learning Js
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: idk 
